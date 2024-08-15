@@ -3,6 +3,7 @@ plugins:
     server:
       port: 5140
       maxPort: 5149
+      host: 0.0.0.0
     ~server-satori: {}
     ~server-temp: {}
   group:basic:
